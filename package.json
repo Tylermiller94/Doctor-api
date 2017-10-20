@@ -1,11 +1,11 @@
 {
-  "name": "template",
+  "name": "better-doctor",
   "version": "1.0.0",
   "main": "gulpfile.js",
   "scripts": {
     "test": "nyc karma start karma.conf.js istanbul"
   },
-  "author": "",
+  "author": "tylermiller94",
   "license": "ISC",
   "devDependencies": {
     "babel-plugin-istanbul": "^4.1.5",
@@ -43,5 +43,13 @@
     "istanbul": "^0.4.5",
     "istanbul-instrumenter-loader": "^3.0.0"
   },
-  "description": ""
+  "description": "a application to find a better doctor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tylermiller94/Doctor-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tylermiller94/Doctor-api/issues"
+  },
+  "homepage": "https://github.com/Tylermiller94/Doctor-api#readme"
 }

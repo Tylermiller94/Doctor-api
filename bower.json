@@ -1,9 +1,12 @@
 {
-  "name": "obj",
-  "description": "",
+  "name": "better-doctor",
+  "description": "a application to find a better doctor",
   "main": "gulpfile.js",
+  "authors": [
+    "tylermiller94"
+  ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/Tylermiller94/Doctor-api",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -12,10 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.2.1",
     "bootstrap": "^3.3.7"
-  },
-  "authors": [
-    "Dan Nollette <nollette.dan@gmail.com"
-  ]
+  }
 }
