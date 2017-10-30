@@ -27,7 +27,7 @@
 * In your terminal enter: $ bower install
 * In your terminal enter: $ gulp build
 * In your terminal enter: $ gulp serve
-
+*  add .env file and insert key exports.apiKey = "[YOUR API KEY]";
 ## Support
 Feel free to contact me at tylermiller94@gmail.com
 
