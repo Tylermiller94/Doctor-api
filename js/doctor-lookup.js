@@ -3,7 +3,7 @@ export class DoctorLookup {
   }
 
   getDoctors(){
-    $.get(`https://api.betterdoctor.com/2016-03-01/doctors?location=47.608013, -122.335167,100&skip=0&limit=3&user_key=3df2d26e3fe30c15f597ce18fedf4144`)
+    $.get(`https://api.betterdoctor.com/2016-03-01/doctors?location=47.608013, -122.335167,100&skip=0&limit=3&user_key=238b793d5467b4afd6dc4cde8587b8ba`)
     .then(function(response){
       const doctors = response.data;
       doctors.forEach(function(doctor){

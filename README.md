@@ -31,6 +31,9 @@
 ## Support
 Feel free to contact me at tylermiller94@gmail.com
 
+##future functionality
+* have running model of full api code(code that is commented out)
+* be able to enter a location and get doctors from that area.
 ## Technologies Used
 
 -HTML
