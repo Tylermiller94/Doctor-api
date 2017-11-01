@@ -1,7 +1,7 @@
 {
   "name": "better-doctor",
   "description": "a application to find a better doctor",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "authors": [
     "tylermiller94"
   ],
